@@ -4,7 +4,7 @@
 
 - 🌐 Outside my main focuses, I'm exploring cybersecurity through CTF (Capture The Flag) challenges, diving into machine learning with Python, and venturing into game development using Unity and C#.
 
-- 🤖 Fueled by an unwavering passion for embedded systems and robotics, I'm on a mission to conquer intricate challenges and leave a meaningful imprint on the world.
+- 🤖 Fueled by an unwavering passion for embedded systems and machine learning, I'm on a mission to conquer intricate challenges and leave a meaningful imprint on the world through Embedded Machine Learning and robotics.
 
 - 🛠️ My toolkit includes:
 
