@@ -1,6 +1,6 @@
 ### 👋 Greetings! I'm Kabir Virk
 
-- 🌱 Currently, I'm delving deep into the exciting waters of autonomous vehicle travel, mastering the intricacies of OpenCV, and immersing myself in the art of PCB design.
+- 🌱 Currently, I'm delving deep into the captivating realm of embedded systems, mastering the intricacies of PCB design, and immersing myself in the art of machine learning through robotics.
 
 - 🌐 Outside my main focuses, I'm exploring cybersecurity through CTF (Capture The Flag) challenges, diving into machine learning with Python, and venturing into game development using Unity and C#.
 
@@ -10,7 +10,7 @@
 
    - Languages: Python, C++, working knowledge of C#
    - Web Development: HTML, CSS, JavaScript
-   - Technologies: React, MongoDB, Linux, Arduino, Raspberry Pi, OpenCV
+   - Technologies: React, MongoDB, Linux, Arduino, Raspberry Pi
 
 - 🔌 My past in front-end development, fostered through the Odin Project, now aids me in creating seamless APIs for my robotics ventures.
 
