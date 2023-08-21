@@ -2,15 +2,15 @@
 
 - 🌱 Currently, I'm delving deep into the captivating realm of embedded systems, mastering the intricacies of PCB design, and immersing myself in the art of machine learning through robotics.
 
-- 🌐 Outside my main focuses, I'm exploring cybersecurity through CTF (Capture The Flag) challenges, diving into machine learning with Python, and venturing into game development using Unity and C#.
+- 🌐 Outside my main focuses, I'm exploring cybersecurity through CTF (Capture The Flag) challenges, and venturing into game development using Unity and C#.
 
-- 🤖 Fueled by an unwavering passion for embedded systems and machine learning, I'm on a mission to conquer intricate challenges and leave a meaningful imprint on the world through Embedded Machine Learning and robotics.
+- 🤖 Driven by an unwavering passion for embedded systems and machine learning, my mission is to conquer intricate challenges and make a meaningful impact through Embedded Machine Learning and robotics.
 
 - 🛠️ My toolkit includes:
 
    - Languages: Python, C++, working knowledge of C#
    - Web Development: HTML, CSS, JavaScript
-   - Technologies: React, MongoDB, Linux, Arduino, Raspberry Pi
+   - Technologies: React, MongoDB, Linux, Arduino, Raspberry Pi, Microsoft Azure
 
 - 🔌 My past in front-end development, fostered through the Odin Project, now aids me in creating seamless APIs for my robotics ventures.
 
