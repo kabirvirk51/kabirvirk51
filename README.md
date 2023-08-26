@@ -10,7 +10,7 @@
 
    - Languages: Python, C++, working knowledge of C#
    - Web Development: HTML, CSS, JavaScript
-   - Technologies: React, MongoDB, Linux, Arduino, Raspberry Pi, Microsoft Azure
+   - Technologies: React, MongoDB, Linux, Arduino, Raspberry Pi
 
 - 🔌 My past in front-end development, fostered through the Odin Project, now aids me in creating seamless GUIs and APIs for my robotics ventures.
 
