@@ -12,7 +12,7 @@
    - Web Development: HTML, CSS, JavaScript
    - Technologies: React, MongoDB, Linux, Arduino, Raspberry Pi, Microsoft Azure
 
-- 🔌 My past in front-end development, fostered through the Odin Project, now aids me in creating seamless GUIs for my robotics ventures.
+- 🔌 My past in front-end development, fostered through the Odin Project, now aids me in creating seamless GUIs and APIs for my robotics ventures.
 
 - 💼 Aspiring to become an embedded systems engineer, I'm actively crafting my path through continuous learning and hands-on projects.
 
