@@ -10,9 +10,9 @@
 
    - Languages: Python, C++, working knowledge of Java
    - Web Development: HTML, CSS, JavaScript
-   - Technologies: React, MongoDB, Linux, Unreal Engine, Arduino, Raspberry Pi
+   - Technologies: React, MongoDB, Linux, Unreal Engine, Arduino, Raspberry Pi, EAGLE, Node-RED
 
-- 🔌 My past in front-end development, fostered through the Odin Project, now aids me in creating seamless GUIs & APIs for my robotics ventures.
+- 🔌 My background in front-end development, acquired through the Odin Project, now helps me create seamless GUIs and APIs for my robotics projects.
 
 - 💼 Aspiring to become an embedded systems engineer, I'm actively crafting my path through continuous learning and hands-on projects.
 
